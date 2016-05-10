@@ -1,0 +1,9 @@
+D:\GitHub\Array_List\Array_List_Controls\bin\Debug\Array_List_Controls.exe.config
+D:\GitHub\Array_List\Array_List_Controls\bin\Debug\Array_List_Controls.exe
+D:\GitHub\Array_List\Array_List_Controls\bin\Debug\Array_List_Controls.pdb
+D:\GitHub\Array_List\Array_List_Controls\obj\Debug\Array_List_Controls.csprojResolveAssemblyReference.cache
+D:\GitHub\Array_List\Array_List_Controls\obj\Debug\Array_List_Controls.Form1.resources
+D:\GitHub\Array_List\Array_List_Controls\obj\Debug\Array_List_Controls.Properties.Resources.resources
+D:\GitHub\Array_List\Array_List_Controls\obj\Debug\Array_List_Controls.csproj.GenerateResource.Cache
+D:\GitHub\Array_List\Array_List_Controls\obj\Debug\Array_List_Controls.exe
+D:\GitHub\Array_List\Array_List_Controls\obj\Debug\Array_List_Controls.pdb
